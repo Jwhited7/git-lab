@@ -1,9 +1,9 @@
 Jacob Whited
 
-Jwhited7
-
 jw504920@ohio.edu
 
-the file that contains my answers is named answers.md
+Jwhited7
 
-CS2400. section 112
+The answers are in answers.md
+
+CS400, section 112
